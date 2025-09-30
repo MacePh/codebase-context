@@ -4,7 +4,7 @@ Generates intelligent context files from codebases for LLM consumption
 """
 
 __version__ = "1.0.0"
-__author__ = "Your Name"
+__author__ = "MacePh"
 
 from .main import (
     generate_context_file,
