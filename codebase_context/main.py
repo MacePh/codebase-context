@@ -24,7 +24,8 @@ CODE_EXTENSIONS = {
 SKIP_DIRS = {
     'node_modules', 'venv', 'env', '.env', '__pycache__', '.git', '.svn',
     'dist', 'build', 'target', 'bin', 'obj', '.idea', '.vscode',
-    'coverage', '.pytest_cache', '.mypy_cache', 'vendor', 'bower_components'
+    'coverage', '.pytest_cache', '.mypy_cache', 'vendor', 'bower_components', 
+    '*_venv'
 }
 
 # Files to always skip
