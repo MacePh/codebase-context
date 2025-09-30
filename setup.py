@@ -12,11 +12,11 @@ with open("README.md", "r", encoding="utf-8") as f:
 setup(
     name="codebase-context",
     version="1.0.0",
-    author="Your Name",
+    author="MacePh",
     description="Generate intelligent codebase context for LLMs",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/codebase-context",
+    url="https://github.com/MacePh/codebase-context",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
