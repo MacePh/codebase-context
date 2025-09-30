@@ -135,6 +135,7 @@ codebase-context.txt
 *-context.txt
 test-output/
 benchmark_results.json
+/before_package/
 
 # Windows
 Thumbs.db
